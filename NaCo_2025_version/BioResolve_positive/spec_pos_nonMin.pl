@@ -1,4 +1,4 @@
-:- ["params_pos.pl"].
+:- ["params.pl"].
 
 myreactions([react([foxp3],[],[neg_nfat]),
 react([foxp3],[],[neg_nfkb]),
